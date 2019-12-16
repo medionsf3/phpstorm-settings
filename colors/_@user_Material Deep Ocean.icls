@@ -4,12 +4,18 @@
     <property name="created">2019-10-31T10:54:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-20T15:25:41</property>
+    <property name="modified">2019-11-28T14:00:05</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
+  <option name="LINE_SPACING" value="1.5" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Mono for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -30,25 +36,31 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="f111a" />
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_ADDED" value="859900" />
+    <option name="FILESTATUS_COPIED" value="73c990" />
+    <option name="FILESTATUS_DELETED" value="b58900" />
+    <option name="FILESTATUS_HIJACKED" value="d33682" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="4b526d" />
+    <option name="FILESTATUS_MERGED" value="6c71c4" />
+    <option name="FILESTATUS_MODIFIED" value="2aa198" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
+    <option name="FILESTATUS_OBSOLETE" value="b58900" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="268bd2" />
+    <option name="FILESTATUS_UNKNOWN" value="d33682" />
+    <option name="FILESTATUS_addedOutside" value="d33682" />
+    <option name="FILESTATUS_changelistConflict" value="cb4b16" />
+    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
     <option name="GUTTER_BACKGROUND" value="f111a" />
     <option name="INDENT_GUIDE" value="3b3f51" />
     <option name="INFORMATION_HINT" value="f111a" />
@@ -69,29 +81,29 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b3f51" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="84ffffc0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="84ffffc0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="f111a" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="84ffff80" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="84ffff80" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="f111a" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="84ffff" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="84ffff" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="f111a" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="" />
-    <option name="ScrollBar.Mac.thumbColor" value="" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="84ffffc0" />
+    <option name="ScrollBar.Mac.thumbColor" value="84ffffc0" />
     <option name="ScrollBar.Mac.trackColor" value="f111a" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="84ffffc0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="84ffffc0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="f111a" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="" />
-    <option name="ScrollBar.Transparent.thumbColor" value="" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="84ffff80" />
+    <option name="ScrollBar.Transparent.thumbColor" value="84ffff80" />
     <option name="ScrollBar.Transparent.trackColor" value="f111a" />
     <option name="ScrollBar.hoverThumbBorderColor" value="84ffff" />
     <option name="ScrollBar.hoverThumbColor" value="84ffff" />
     <option name="ScrollBar.hoverTrackColor" value="f111a" />
-    <option name="ScrollBar.thumbBorderColor" value="" />
-    <option name="ScrollBar.thumbColor" value="" />
+    <option name="ScrollBar.thumbBorderColor" value="84ffffc0" />
+    <option name="ScrollBar.thumbColor" value="84ffffc0" />
     <option name="ScrollBar.trackColor" value="f111a" />
     <option name="TEARLINE_COLOR" value="3b3f51" />
     <option name="TOOLTIP" value="292d3e" />
@@ -152,6 +164,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -387,6 +402,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -989,6 +1005,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -1004,6 +1022,10 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1015,6 +1037,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff4965" />
@@ -1031,6 +1054,7 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="292d3e" />
@@ -2280,6 +2304,7 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
     <option name="PHP_CONCATENATION">
       <value />
     </option>
@@ -2302,6 +2327,10 @@
       </value>
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -2312,6 +2341,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -2703,6 +2733,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="4b526d" />
@@ -2731,6 +2762,11 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="Scala Type Alias" baseAttributes="" />
+    <option name="Scala Type parameter" baseAttributes="" />
+    <option name="Static method access" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
@@ -2770,6 +2806,7 @@
         <option name="FOREGROUND" value="c7c8f5" />
       </value>
     </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="ffeb95" />
@@ -2892,6 +2929,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="osmorc.attributeName" baseAttributes="" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
