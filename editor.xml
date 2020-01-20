@@ -2,6 +2,12 @@
   <component name="CodeInsightSettings">
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_FAMILY" value="Source Code Pro for Powerline" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Anonymous Pro for Powerline" />
+  </component>
   <component name="EditorSettings">
     <option name="IS_DND_ENABLED" value="false" />
   </component>
