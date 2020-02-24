@@ -1,8 +1,29 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move" />
+  <action id="ChangesView.SetDefault" />
+  <action id="ClassNameCompletion" />
+  <action id="CodeCompletion" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="Debug" />
   <action id="DebugClass" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoAction" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NextTab" />
   <action id="ParameterInfo" />
+  <action id="PreviousTab" />
+  <action id="RestoreDefaultLayout" />
   <action id="RunDashboard.Debug" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -10,7 +31,9 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="ShowContent" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
