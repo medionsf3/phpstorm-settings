@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
@@ -11,6 +12,6 @@
     <option name="secondAccentColor" value="0d6118" />
     <option name="highlightColor" value="0d6118" />
     <option name="userId" value="-55910574:16d6a43907f:-8000" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
